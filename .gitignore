@@ -1,0 +1,6 @@
+Ollama.app/*
+/milvus/volumes/milvus/*
+/milvus/volumes/milvus/*
+/milvus/volumes/minio/*
+/milvus/volumes/etcd/*
+.env
